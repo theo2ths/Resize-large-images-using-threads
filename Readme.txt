@@ -1,4 +1,4 @@
-//STOICA THEODOR NICOLAE 333CB
+
 1) Am retinut matricea de pixeli ca un vector de pixeli cu weight * height elemente, dupa ce am facut citirea am apelat 
 functiile de creere de threduri iar apoi fiecarui thread i am atribuit diferiti pixeli din matricea de output. Pentru pixeul 
 i j am calculez suma din submatricea corespunzatoare din input(daca resize era 3 faceam o suma ponderata bazata pe matricea gaussian). 
